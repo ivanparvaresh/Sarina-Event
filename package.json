@@ -1,0 +1,31 @@
+{
+  "name": "sarina.event",
+  "version": "1.0.0",
+  "description": "Sarina Event project",
+  "main": "event.js",
+  "keywords": [
+      "node",
+      "broadcast",
+      "observer",
+      "event",
+      "sarina"
+  ],
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "sarina":"^1.0.1"
+  },
+  "devDependencies": {
+    "gulp":"~3.9.1",
+    "gulp-mocha":"~2.2.0",
+    "chai":"~3.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/javadparvaresh/Sarina-Event"
+  },
+  "author": "javadparvaresh@gmail.com",
+  "license": "MIT",
+  "homepage": "https://github.com/javadparvaresh/Sarina-Event"
+}
